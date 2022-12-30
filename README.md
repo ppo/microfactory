@@ -10,4 +10,4 @@
 ## Notion
 
 Test avec [Notion](https://www.notion.so/) pour remplacer le wiki.  
-Exports [HTML](Notion/html) et [Markdown + CSV](Notion/md + csv).
+Exports [HTML](Notion/html) et [Markdown + CSV](Notion/md%20+%20csv).
